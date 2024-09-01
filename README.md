@@ -1,2 +1,2 @@
-# TIME-TABLE-GENERATOR
-A TIME TABLE GENERATOR WEB APPLICATION
+# Automatic Timetable Generator
+Web Application to Automatically Generate Timetable.
